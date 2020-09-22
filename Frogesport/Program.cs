@@ -33,7 +33,7 @@ namespace Frogesport
 
             if (svar1 == "C")
             {
-
+                
                 points++;
                 System.Console.WriteLine("Grattis du hade rätt");
             }
