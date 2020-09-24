@@ -11,3 +11,16 @@ C:\Users\ludvig.andersson8\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netc
 C:\Users\ludvig.andersson8\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.dll
 C:\Users\ludvig.andersson8\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.pdb
 C:\Users\ludvig.andersson8\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.genruntimeconfig.cache
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.exe
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.deps.json
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.runtimeconfig.json
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.runtimeconfig.dev.json
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.dll
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\bin\Debug\netcoreapp3.1\Frogesport.pdb
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.csprojAssemblyReference.cache
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.AssemblyInfoInputs.cache
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.AssemblyInfo.cs
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.csproj.CoreCompileInputs.cache
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.dll
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.pdb
+C:\Users\Lyxlu\Documents\GitHub\Frogesport\Frogesport\obj\Debug\netcoreapp3.1\Frogesport.genruntimeconfig.cache

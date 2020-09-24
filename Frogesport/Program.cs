@@ -97,6 +97,56 @@ namespace Frogesport
                 Console.ReadLine();
             }
 
+            Console.Clear();
+            Console.WriteLine("health:" + health);
+            Console.WriteLine("hur många ben har en enbent spindel?");
+            System.Console.WriteLine("a. 8 ben");
+            System.Console.WriteLine("b. 1 ben");
+            System.Console.WriteLine("c. 6 ben");
+
+            string svar4 = Console.ReadLine();
+
+            if (svar4 == "b")
+            {
+
+
+                System.Console.WriteLine("Grattis du hade rätt");
+                Console.ReadLine();
+            }
+
+            else
+            {
+                health = health - 1;
+
+                System.Console.WriteLine("Det var fel!");
+                Console.ReadLine();
+            }
+
+            Console.Clear();
+            Console.WriteLine("health:" + health);
+            Console.WriteLine("vad har jag för bil?");
+            System.Console.WriteLine("a. Ferrari F12");
+            System.Console.WriteLine("b. Buggatti Chrion");
+            System.Console.WriteLine("c. Volkswagen golf FSI");
+
+            string svar5 = Console.ReadLine();
+
+            if (svar5 == "c")
+            {
+
+
+                System.Console.WriteLine("Grattis du hade rätt");
+                Console.ReadLine();
+            }
+
+            else
+            {
+                health = health - 1;
+
+                System.Console.WriteLine("Det var fel!");
+                Console.ReadLine();
+            }
+
             if (health == 0)
             {
                 Console.Clear();
